@@ -1,4 +1,4 @@
-# level1_task3_CODSOFT_LANDING_PAGE
+# level1_task2_CODSOFT_LANDING_PAGE
 This Repository contains a Landing Page website.
 # Sound Effects Website
 ![SoundSynergy](./images/my_screenshot.png)
